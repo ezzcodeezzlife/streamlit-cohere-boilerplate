@@ -1,2 +1,4 @@
-cohere
 dotenv
+cohere
+plotly
+scipy
