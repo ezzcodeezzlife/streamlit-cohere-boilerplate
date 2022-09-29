@@ -1,4 +1,2 @@
-dotenv
 cohere
-plotly
-scipy
+dotenv
